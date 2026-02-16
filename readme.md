@@ -2,7 +2,7 @@
 
 A real-time algorithmic trading system that analyzes cryptocurrency markets across multiple timeframes to generate high-probability trade signals.
 
-![Bot Screenshot](images/project-crypto-bot.png)
+
 
 ## ⚡ Features
 
@@ -22,3 +22,4 @@ pip install streamlit ccxt pandas numpy plotly
 streamlit run app.py
 
 #live test
+
